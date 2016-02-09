@@ -170,6 +170,7 @@
         default:
             break;
     }
+    
     // アニメーションを実行する
     [UIView animateWithDuration:duration
                           delay:delay
